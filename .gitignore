@@ -1,0 +1,12 @@
+# Env sources
+bin
+lib
+lib64
+include
+pyvenv.cfg
+
+# Jupter stuff
+.ipynb_checkpoints
+
+# data files
+*.csv
