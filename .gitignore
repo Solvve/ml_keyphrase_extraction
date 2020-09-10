@@ -10,3 +10,6 @@ pyvenv.cfg
 
 # data files
 *.csv
+
+# vscode stuff
+.vscode
