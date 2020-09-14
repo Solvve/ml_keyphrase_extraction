@@ -6,9 +6,10 @@
 
 ## Description
 
-Unsupervised keyphrase extraction from [Amazon](https://www.amazon.com/) reviews for each product. For solving this problem we follow the next steps:
+Unsupervised keyphrase extraction from [Amazon](https://www.amazon.com/) reviews for each product. 
+For solving this problem we follow the next steps:
 * Exploratory data analysis
-* Clear Data
+* Data clean-up
 * Modeling
 * Show keyphrases for each product 
 
